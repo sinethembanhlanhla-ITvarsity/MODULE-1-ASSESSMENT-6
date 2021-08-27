@@ -41,3 +41,7 @@ p{
 #menu a:hover{
     color: #5077bd;
 }
+
+p{
+    table: border-collapse: collapse;
+}
