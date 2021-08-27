@@ -42,8 +42,7 @@ p{
     color: #5077bd;
 }
 
-p{
-    table: border-collapse: collapse;
-    border: 1px solid black;
+table{
+    border-collapse: collapse;
     width: 100%;
 }
