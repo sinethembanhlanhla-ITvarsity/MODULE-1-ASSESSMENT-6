@@ -44,4 +44,9 @@ p{
 
 p{
     table: border-collapse: collapse;
+    collapse; border: 1px solid ;
+}
+
+td{
+    border: 1px solid ;
 }
